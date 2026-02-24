@@ -13,5 +13,7 @@
 ![Version](https://img.shields.io/badge/Version-1.0-orange)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 ![Version](https://img.shields.io/badge/Version-1.0-orange)
+[![Email](https://img.shields.io/badge/Contact-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourgmail@gmail.com)
+
 
 
