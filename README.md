@@ -8,3 +8,8 @@
     # //////////////////////////////////////////\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ #
 
     ---------------------------------------------------------------------------------------
+    ![Python](https://img.shields.io/badge/Python-3.11-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Version](https://img.shields.io/badge/Version-1.0-orange)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
+
