@@ -13,7 +13,6 @@
 ![Version](https://img.shields.io/badge/Version-1.0-orange)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 [![Email](https://img.shields.io/badge/Contact-Email-red?logo=gmail&logoColor=white)](mailto:baminhnguyendeptrai@gmail.com)
-![Preview](Preview.png)
 
 
 
